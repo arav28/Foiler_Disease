@@ -1,7 +1,4 @@
-This was a Kaggle competition that my friend and I took up. Apples, one of the most
-wildly cultivated fruit crops in the world, are constantly under the threat of being affected by a
-large number of insects, pathogens, and a wide range of diseases. The task was to do
-multi-label disease classification on the given dataset. We implemented two deep learning
+We implemented two deep learning
 models – InceptionV3 and Xception and compared them with the disease labels being: Scab,
 frog-eye-leaf-spot, rust, powdery-mildew, healthy specimen, and complex (affected by too many
 diseases). We applied transfer learning by utilizing the convolution layers from the pre-trained
